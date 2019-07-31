@@ -1,1 +1,1 @@
-web: gunicorn recyclingProject.wsgi --log-file -
+web: gunicorn team5-master/recyclingProject.wsgi --log-file -
