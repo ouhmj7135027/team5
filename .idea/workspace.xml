@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab6ea45f-4cac-436e-8c12-05f68be2acb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Django_Lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/재활용의 정석.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/templates/account/login_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/templates/account/signup_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/account/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/곱창.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/곱창_bB4upvn.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/공구.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/김정은.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/노트.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/미래산업.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/박스.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/부탄가스.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/소화기.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/신문.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/양념치킨.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/양자_모형.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/양자_모형_dpwTq8w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/양자_보안.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/양자_보안_AiE18a9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/양자_보안_baytWQB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/양자_보안_wnj0F9Q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/우유.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/유리병.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/종이컵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/짬뽕.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/캔.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/images/캡처1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/곱창.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/곱창_9HpQKKO.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/돈가스.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/돈가스_tFg7nfe.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/롤초밥.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/배경.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/버섯전골.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/부대찌개.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/부대찌개_Ny5Lql3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/샐러드.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/샐러드_HyEagQh.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/샐러드_Rgw3BN1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/샐러드_lerqSpR.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/순대국.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/스테이크.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/양자 모형.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/양자 모형_LQDjXJi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/양자 보안.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/우동.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/제육볶음.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/초밥.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/media/캡처.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/migrations/0002_auto_20190728_2229.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/templates/base/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/templates/recycleapp/board.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/templates/recycleapp/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/templates/recycleapp/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recycleapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recyclingProject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recyclingProject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recyclingProject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/recyclingProject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/migrations/0002_auto_20190728_2308.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/migrations/0003_auto_20190728_2311.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/migrations/0004_auto_20190729_0029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/templates/auction/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/templates/auction/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/templates/auction/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/templates/auction/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclingProject/ss_ba/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recyclingProject/account/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recyclingProject/account/templates/account/signup_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-column="4" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recyclingProject/account/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/django/forms/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7524">
+              <caret line="411" column="13" selection-start-line="411" selection-start-column="13" selection-end-line="411" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/recyclingProject/account/forms.py" />
+        <option value="$PROJECT_DIR$/recyclingProject/account/templates/account/signup_page.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="355" />
+    <option name="y" value="-20" />
+    <option name="width" value="1370" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="재활용의 정석" type="b2602c69:ProjectViewProjectNode" />
+              <item name="재활용의 정석" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="재활용의 정석" type="b2602c69:ProjectViewProjectNode" />
+              <item name="재활용의 정석" type="462c0819:PsiDirectoryNode" />
+              <item name="recyclingProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="재활용의 정석" type="b2602c69:ProjectViewProjectNode" />
+              <item name="재활용의 정석" type="462c0819:PsiDirectoryNode" />
+              <item name="recyclingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="재활용의 정석" type="b2602c69:ProjectViewProjectNode" />
+              <item name="재활용의 정석" type="462c0819:PsiDirectoryNode" />
+              <item name="recyclingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="재활용의 정석" type="b2602c69:ProjectViewProjectNode" />
+              <item name="재활용의 정석" type="462c0819:PsiDirectoryNode" />
+              <item name="recyclingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab6ea45f-4cac-436e-8c12-05f68be2acb3" name="Default Changelist" comment="" />
+      <created>1564313659709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564313659709</updated>
+      <workItem from="1564313670603" duration="53000" />
+      <workItem from="1564314871379" duration="769000" />
+      <workItem from="1564473057389" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="951000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/recyclingProject/account/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recyclingProject/account/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/django/forms/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7524">
+          <caret line="411" column="13" selection-start-line="411" selection-start-column="13" selection-end-line="411" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recyclingProject/account/templates/account/signup_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-column="4" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
